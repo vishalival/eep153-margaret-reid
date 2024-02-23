@@ -11,13 +11,15 @@ This README contains all the information necessary to navigating our information
 - <span style="color:purple">Angel Prasad</span>, [angelprasad](https://github.com/angelprasad)
 - <span style="color:purple">Kimberley Fan</span>, [kimberleyfan](https://github.com/kimberleyfan)
 - <span style="color:purple">Nina Serafin</span>, [nsurfin](https://github.com/nsurfin)
-  
+
+```diff
 ## Table of Contents and Deliverables
-1. [Deliverable 1[A] - Population Statistics*</span>](https://github.com)
-2. [Introduction](#introduction)
-3. [Usage](#usage)
-4. [Contributing](#contributing)
-5. [Links](#links)
+- 1. [Deliverable 1[A] - Population Statistics*</span>](https://github.com)
+- 2. [Introduction](#introduction)
+- 3. [Usage](#usage)
+- 4. [Contributing](#contributing)
+- 5. [Links](#links)
+```
 
 ```diff
 - text in red
