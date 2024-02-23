@@ -13,7 +13,7 @@ This README contains all the information necessary to navigating our information
 - <span style="color:purple">Nina Serafin</span>, [nsurfin](https://github.com/nsurfin)
   
 ## Table of Contents and Deliverables
-1. [Population Function, <span style=\"color: red;\">*Deliverable 1[A] - Population Statistics*</span>](#population-f)\n"
+1. [Deliverable 1[A] - Population Statistics*</span>](https://github.com)
 2. [Introduction](#introduction)
 3. [Usage](#usage)
 4. [Contributing](#contributing)
