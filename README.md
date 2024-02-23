@@ -18,3 +18,11 @@ This README contains all the information necessary to navigating our information
 3. [Usage](#usage)
 4. [Contributing](#contributing)
 5. [Links](#links)
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
