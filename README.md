@@ -1,11 +1,12 @@
-# eep153-margaret-reid
+# EEP 153: Project 2
+## Team Margaret Reid
 
-Hi, welcome to our Git Repo!
+This README contains all the information necessary to navigating our information. Please read it to find all of our Deliverables!
 
-Project Members:
-- Vishali Vallioor
-- Samantha Wu
-- Nina Serafin
-- Tia Pappas
-- Angel Prasad
-- Kimberley Fan
+Project Members, Git Usernames:
+- Tia Pappas, t-pappas
+- Vishali Vallioor, vishalival
+- Samantha Wu, wusamantha
+- Angel Prasad, angelprasad
+- Kimberley Fan, kimberleyfan
+- Nina Serafin, nsurfin
