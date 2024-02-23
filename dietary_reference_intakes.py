@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 
 def inuit_dietary_recommendations(sex, age):
@@ -10,16 +9,17 @@ def inuit_dietary_recommendations(sex, age):
 
     Returns:
     recommendations_series (Pandas.Series) - specifying specific dietary requirements.
-    
     '''
     merged_df = pd.read_csv("data/inuit_dietary_info.csv")
 
-    if sex in ["female", "f", "F", "Female"]:
-        gender = 'F'
-    elif sex in ["male", "m", "M", "Male"]:
-        gender = 'M'
+    # Adjust gender for age under 10
+    if age <= 10:
+        gender = 'ALL'
     else:
-        gender = 'ALL'  
+        if sex in ["female", "f", "F", "Female"]:
+            gender = 'F'
+        elif sex in ["male", "m", "M", "Male"]:
+            gender = 'M'
     
     # Define the age group
     age_group = '≤6 mo' if age <= 0.5 else \
@@ -37,8 +37,15 @@ def inuit_dietary_recommendations(sex, age):
     # Filter the merged_df for the specific age group and gender
     recommendations_df = merged_df[(merged_df['Age group'] == age_group) & (merged_df['Gender'] == gender)]
 
-    recommendations_df = recommendations_df.drop(['Age group', 'Gender'], axis = 1)
+    # Clean up the DataFrame by removing unnecessary columns
+    columns_to_remove = ['Unnamed: 0', 'index_x', 'index_y', 'index', 'Age group', 'Gender']
+    recommendations_df = recommendations_df.drop(columns=[col for col in columns_to_remove if col in recommendations_df.columns])
+
+    # Format column names to be more readable
+    recommendations_df.columns = [col.replace('\n', ' ').replace('­', '-').strip() for col in recommendations_df.columns]
+
     # Convert the filtered DataFrame to a Series
     recommendations_series = recommendations_df.squeeze()
 
     return recommendations_series
+
