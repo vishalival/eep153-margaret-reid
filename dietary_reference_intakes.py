@@ -1,16 +1,21 @@
 import pandas as pd
 
-def inuit_dietary_recommendations(sex, age):
+def inuit_dietary_recommendations(sex, age, age_unit_type='year'):
     '''
-    Returns the inuit dietary recommendations for a given sex & age.
+    Returns the Inuit dietary recommendations for a given sex & age.
     Arguments:
-    sex (string) - "female", "f", "F", "Female", "male", "m", "M", "Male" works
-    age (int) - Any age from 0 to 70 works, over 70 will be considered >70 yo
+    sex (string) - Accepts "female", "f", "F", "Female", "male", "m", "M", "Male".
+    age (int or float) - Age value. Interpretation depends on age_unit_type.
+    age_unit_type (string) - Specifies the unit of age, either "year" or "month". Defaults to "year".
 
     Returns:
-    recommendations_series (Pandas.Series) - specifying specific dietary requirements.
+    recommendations_series (Pandas.Series) - Specifying specific dietary requirements.
     '''
     merged_df = pd.read_csv("data/inuit_dietary_info.csv")
+
+    # Convert age to years if age_unit_type is 'month'
+    if age_unit_type == "month" or age_unit_type == "months":
+        age = age / 12.0
 
     # Adjust gender for age under 10
     if age <= 10:
@@ -21,7 +26,7 @@ def inuit_dietary_recommendations(sex, age):
         elif sex in ["male", "m", "M", "Male"]:
             gender = 'M'
     
-    # Define the age group
+    # Define the age group based on age in years
     age_group = '≤6 mo' if age <= 0.5 else \
                 '7-11 mo' if age <= 1 else \
                 '1-3 y' if age <= 3 else \
@@ -48,4 +53,3 @@ def inuit_dietary_recommendations(sex, age):
     recommendations_series = recommendations_df.squeeze()
 
     return recommendations_series
-
