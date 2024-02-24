@@ -44,7 +44,7 @@ The function's Python code can be found at this [link](https://github.com/vishal
 
 The Spreadsheet for this information can be found at the [following link](https://docs.google.com/spreadsheets/d/1jIjL0Pp4UtbiCsN952j8x1a-oP-LAuQ-/edit#gid=191050954).
 
-## *Deliverable 4[A]* Nutritional Content for Different Foods <a name="data-prices-foods"></a>
+## *Deliverable 4[A]* Nutritional Content for Different Foods <a name="nutrition-content-foods"></a>
 ## *Deliverable 5[A]* Solution <a name="solution"></a>
 ## *Deliverable 6[C]* Sensitivity of Solution <a name="solution-sensitivity"></a>
 ## *Deliverable 7[B]* Total Cost for Population of Interest <a name="total-cost"></a>
