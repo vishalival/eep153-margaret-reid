@@ -3,6 +3,8 @@
 
 This README contains all the information necessary to navigating our information. Please read it to find all of our Deliverables!
 
+![Inuit Food](inuit_food.jpeg)
+
 ## Project Members
 <span style="color:purple">Project Members, Git Usernames, Berkeley Emails:</span>
 - <span style="color:purple">Tia Pappas</span>, [t-pappas](https://github.com/t-pappas), tia.pappas@berkeley.edu
