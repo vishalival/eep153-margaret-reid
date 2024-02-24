@@ -5,9 +5,13 @@ This README contains all the information necessary to navigating our information
 
 ## *With a diet so diverse from most Americans, what are the nutritional values of those from Inuit Indigenous Communities?*
 
+
 <p align="center">
-  <img src="inuit_food.jpeg" alt="https://www.hurtigruten.com/en/expeditions/stories/ancestors-of-the-inuit/" width="300"/>
-  <img src="inuit_people.jpeg" alt="https://www.aptnnews.ca/national-news/celebrating-the-holidays-in-montreal-inuit-style/" width="300"/>
+  <img src="inuit_food.jpeg" alt="Alt text for first image" width="300"/><br>
+  <em>"https://www.hurtigruten.com/en/expeditions/stories/ancestors-of-the-inuit/"</em>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing between images and captions -->
+  <img src="inuit_people.jpeg" alt="Alt text for second image" width="300"/><br>
+  <em>"https://www.aptnnews.ca/national-news/celebrating-the-holidays-in-montreal-inuit-style/"</em>
 </p>
 
 ## Project Members
