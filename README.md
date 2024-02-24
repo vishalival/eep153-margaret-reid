@@ -1,5 +1,5 @@
 # EEP 153: Project 2
-## Team Margaret Reid
+## Team Margaret Reid: A Study of Inuit Diet and Minimum Cost Information
 
 This README contains all the information necessary to navigating our information. Please read it to find all of our Deliverables!
 
@@ -16,9 +16,10 @@ This README contains all the information necessary to navigating our information
 1. [*Deliverable 1[A]* - Description of Population of Interest, Introduction](#deliverable-1a-description-of-population-of-interest-introduction)
 2. [*Deliverable 2[A]* - Dietary Reference Intakes](#dietary-reference-intakes)
 3. [*Deliverable 3[A]* - Data on Prices for Different Foods](#data-prices-foods)
-4. [Usage](#usage)
-5. [Contributing](#contributing)
-6. [Links](#links)
+4. [*Deliverable 4[A]* - Nutritional Content for Different Foods](#nutrition-content-foods)
+5. [*Deliverable 5[A]* - Solution](#solution)
+6. [*Deliverable 6[C]* - Sensitivity of Solution](#solution-sensitivity)
+7. [*Deliverable 7[B]* - Total Cost for Population of Interest](#total-cost)
 
 ## *Deliverable 1[A]* Description of Population of Interest, Introduction <a name="deliverable-1a-description-of-population-of-interest-introduction"></a>
 
@@ -29,3 +30,8 @@ The function's Python code can be found at this [link](https://github.com/vishal
 ## *Deliverable 3[A]* Data on Prices for Different Foods <a name="data-prices-foods"></a>
 
 The Spreadsheet for this information can be found at the [following link](https://docs.google.com/spreadsheets/d/1jIjL0Pp4UtbiCsN952j8x1a-oP-LAuQ-/edit#gid=191050954).
+
+## *Deliverable 4[A]* Nutritional Content for Different Foods <a name="data-prices-foods"></a>
+## *Deliverable 5[A]* Solution <a name="solution"></a>
+## *Deliverable 6[C]* Sensitivity of Solution <a name="solution-sensitivity"></a>
+## *Deliverable 7[B]* Total Cost for Population of Interest <a name="total-cost"></a>
