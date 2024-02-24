@@ -14,30 +14,14 @@ This README contains all the information necessary to navigating our information
 
 ## Table of Contents and Deliverables
 1. [*Deliverable 1[A]* - Description of Population of Interest, Introduction](#deliverable-1a-description-of-population-of-interest-introduction)
-2. [*Deliverable 2[A]* - Population Statistics](https://github.com)
-3. [*Deliverable 3[A]* - Data on Prices for Different Foods](https://docs.google.com/spreadsheets/d/1jIjL0Pp4UtbiCsN952j8x1a-oP-LAuQ-/edit?usp=sharing&ouid=103623287063864927566&rtpof=true&sd=true)
+2. [*Deliverable 2[A]* - Dietary Reference Intakes](#dietary-reference-intakes)
+3. [*Deliverable 3[A]* - Data on Prices for Different Foods](#data-prices-foods)
 4. [Usage](#usage)
 5. [Contributing](#contributing)
 6. [Links](#links)
 
+## *Deliverable 1[A]* Description of Population of Interest, Introduction <a name="deliverable-1a-description-of-population-of-interest-introduction"></a>
 
+## *Deliverable 2[A]* Dietary Reference Intakes <a name="dietary-reference-intakes"></a>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# *Deliverable 1[A]* Description of Population of Interest, Introduction <a name="deliverable-1a-description-of-population-of-interest-introduction"></a>
+## *Deliverable 3[A]* Data on Prices for Different Foods <a name="data-prices-foods"></a>
