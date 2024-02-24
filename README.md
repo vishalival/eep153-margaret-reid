@@ -3,16 +3,18 @@
 
 This README contains all the information necessary to navigating our information. Please read it to find all of our Deliverables!
 
-## *With a diet so diverse from most Americans, what are the nutritional values of those from Inuit Indigenous Communities?*
-
+<p align="center">
+  <strong>With a diet so diverse from most Americans, what are the nutritional values of those from Inuit Indigenous Communities?</strong>
+</p>
 
 <p align="center">
   <img src="inuit_food.jpeg" alt="Alt text for first image" width="300"/><br>
-  <em>"https://www.hurtigruten.com/en/expeditions/stories/ancestors-of-the-inuit/"</em>
+  <em style="font-size: small;">"https://www.hurtigruten.com/en/expeditions/stories/ancestors-of-the-inuit/"</em>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <!-- Spacing between images and captions -->
   <img src="inuit_people.jpeg" alt="Alt text for second image" width="300"/><br>
-  <em>"https://www.aptnnews.ca/national-news/celebrating-the-holidays-in-montreal-inuit-style/"</em>
+  <em style="font-size: small;">"https://www.aptnnews.ca/national-news/celebrating-the-holidays-in-montreal-inuit-style/"</em>
 </p>
+
 
 ## Project Members
 <span style="color:purple">Project Members, Git Usernames, Berkeley Emails:</span>
