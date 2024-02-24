@@ -38,7 +38,7 @@ This README contains all the information necessary to navigating our information
 
 ## *Deliverable 2[A]* Dietary Reference Intakes <a name="dietary-reference-intakes"></a>
 
-The function's Python code can be found at this [link](https://github.com/vishalival/eep153-margaret-reid/blob/main/dietary_reference_intakes.py), but you can play around with it here.
+The function's Python code can be found at this [link](https://github.com/vishalival/eep153-margaret-reid/blob/main/dietary_reference_intakes.py), but you can play around with it [here](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fvishalival%2Feep153-margaret-reid&urlpath=tree%2Feep153-margaret-reid%2Ftester.ipynb).
 
 ## *Deliverable 3[A]* Data on Prices for Different Foods <a name="data-prices-foods"></a>
 
