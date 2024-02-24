@@ -4,8 +4,8 @@
 This README contains all the information necessary to navigating our information. Please read it to find all of our Deliverables!
 
 <p align="center">
-  <img src="inuit_food.jpeg" alt="Alt text for first image" width="300"/>
-  <img src="inuit_people.jpeg" alt="Alt text for second image" width="300"/>
+  <img src="inuit_food.jpeg" alt="https://www.hurtigruten.com/en/expeditions/stories/ancestors-of-the-inuit/" width="300"/>
+  <img src="inuit_people.jpeg" alt="https://www.aptnnews.ca/national-news/celebrating-the-holidays-in-montreal-inuit-style/" width="300"/>
 </p>
 
 ## Project Members
