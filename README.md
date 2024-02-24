@@ -24,4 +24,8 @@ This README contains all the information necessary to navigating our information
 
 ## *Deliverable 2[A]* Dietary Reference Intakes <a name="dietary-reference-intakes"></a>
 
+The function's Python code can be found at this [link](https://github.com/vishalival/eep153-margaret-reid/blob/main/dietary_reference_intakes.py), but you can play around with it here.
+
 ## *Deliverable 3[A]* Data on Prices for Different Foods <a name="data-prices-foods"></a>
+
+The Spreadsheet for this information can be found at the [following link](https://docs.google.com/spreadsheets/d/1jIjL0Pp4UtbiCsN952j8x1a-oP-LAuQ-/edit#gid=191050954).
