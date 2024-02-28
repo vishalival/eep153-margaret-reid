@@ -2,7 +2,7 @@
 ## Team Margaret Reid: A Study of Inuit Diet and Minimum Cost Information
 
 <p align="center">
-  <strong>With a diet so diverse from most Americans, what are the nutritional values of those from Inuit Indigenous Communities?</strong>
+  <strong>With a diet so different from most Americans, what are the nutritional values of traditional hunted and gathered food from Indigenous Indigenous Communities?</strong>
 </p>
 
 <p align="center">
@@ -13,6 +13,7 @@
   <em style="font-size: small;">"https://www.aptnnews.ca/national-news/celebrating-the-holidays-in-montreal-inuit-style/"</em>
 </p>
 
+Our project focuses on the Inuit population of Nunavut, the northernmost territory of Canada. The Inuit of Nunavut experience high rates of food insecurity, adverse health effects from store-bought and contaminated foods, and consume a diverse mix of traditional hunted and gathered foods in conjunction with Western store bought foods. The goal of our diet problem was to understand the value of traditional foods in the Inuit diet by comparing the costs of entirely store-bought food and a mix of store-bought and traditional foods.
 
 ## Project Members
 <span style="color:purple">Project Members, Git Usernames, Berkeley Emails:</span>
