@@ -24,5 +24,5 @@ Our project focuses on the Inuit population of Nunavut, the northernmost territo
 - <span style="color:purple">Kimberley Fan</span>, [kimberleyfan](https://github.com/kimberleyfan), kimberley.fan123@berkeley.edu
 - <span style="color:purple">Nina Serafin</span>, [nsurfin](https://github.com/nsurfin), ninaserafin@berkeley.edu
 
-Hi! Welcome to our Git Repo. To check out all of our Deliverables, please open [this Guided Jupyter Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/vishalival/eep153-margaret-reid&urlpath=tree/eep153-margaret-reid/deliverables_code_final.ipynb)
+Hi! Welcome to our Git Repo. To check out all of our Deliverables, please open [this Guided Jupyter Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/vishalival/eep153-margaret-reid&urlpath=tree/eep153-margaret-reid/deliverables_code_final.ipynb
 ), which has all of our code and everything you need. Thank you!!
