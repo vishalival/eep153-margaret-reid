@@ -2,7 +2,7 @@
 ## Team Margaret Reid: A Study of Inuit Diet and Minimum Cost Information
 
 <p align="center">
-  <strong>With a diet so different from most Americans, what are the nutritional values of traditional hunted and gathered food from Indigenous Indigenous Communities?</strong>
+  <strong>With a diet so different from most Americans, what are the nutritional values of traditional hunted and gathered food from Indigenous Indigenous Communities? How can we address the issues of food insecurity in Nunavut? </strong>
 </p>
 
 <p align="center">
@@ -24,5 +24,5 @@ Our project focuses on the Inuit population of Nunavut, the northernmost territo
 - <span style="color:purple">Kimberley Fan</span>, [kimberleyfan](https://github.com/kimberleyfan), kimberley.fan123@berkeley.edu
 - <span style="color:purple">Nina Serafin</span>, [nsurfin](https://github.com/nsurfin), ninaserafin@berkeley.edu
 
-Hi! Welcome to our Git Repo. To check out all of our Deliverables, please open [this Guided Jupyter Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/vishalival/eep153-margaret-reid&urlpath=tree/eep153-margaret-reid/deliverables_code%20(1).ipynb
+Hi! Welcome to our Git Repo. To check out all of our Deliverables, please open [this Guided Jupyter Notebook](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https://github.com/vishalival/eep153-margaret-reid&urlpath=tree/eep153-margaret-reid/deliverables_code_final.ipynb)
 ), which has all of our code and everything you need. Thank you!!
